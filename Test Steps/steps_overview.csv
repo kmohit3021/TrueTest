@@ -1,0 +1,17 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+2,Create New User in Employee Directory,,"Step 1: Navigate to /
+Step 2: Enter username and password to sign in
+Step 3: Click on div userManagement
+Step 4: Click on input newUser
+Step 5: Enter input value in input newUser
+Step 6: Select option with input value from select newRole
+Step 7: Select option with input value from select newStatus
+Step 8: Click on button addUser
+Step 9: Click on div userCreatedToast -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Trivial,NEW
+1,Access via URL and Login with Valid Credentials,,"Step 1: Navigate to /
+Step 2: Enter username and password to sign in
+Step 3: Enter username and password to sign in
+Step 4: Take full page screenshot as checkpoint
+",Trivial,NEW

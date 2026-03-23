@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2-Create New User in Employee Directory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ff7a077-e854-488d-b9c9-ef5b93aeff57</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input newUser - (Input data variable)</description>
+      <id>aa7783c8-039c-4662-b17b-addee9ed169e</id>
+      <masked>false</masked>
+      <name>input_newUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 2: Enter username and password to sign in - (Input data variable)</description>
+      <id>ba38b2cf-6281-4c59-9a0e-7e860e0dd9bc</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 2: Enter username and password to sign in - (Input data variable)</description>
+      <id>6621fc81-4c03-4da7-bf4b-bbd36388bf3b</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 6: Select option with input value from select newRole - (Input data variable)</description>
+      <id>1a426095-b282-419c-a85a-e1be63526e44</id>
+      <masked>false</masked>
+      <name>select_newRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 7: Select option with input value from select newStatus - (Input data variable)</description>
+      <id>ba0c6d07-11da-4936-ac16-cd2b31c4e930</id>
+      <masked>false</masked>
+      <name>select_newStatus</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>211709fd-1b08-4499-a4f7-a21024f4c22f</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session", "assignee": "mohit.kumar@katalon.com", "linkedTestCaseIds": [16773124]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

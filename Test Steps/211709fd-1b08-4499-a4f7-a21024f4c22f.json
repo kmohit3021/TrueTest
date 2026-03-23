@@ -1,0 +1,137 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "5cf912b5-1a48-4561-a8f6-b265d11b346c",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "1e1d3fbe-06e4-4fa2-93a4-0ba826bd3033",
+      "name": "Enter username and password to sign in",
+      "action_id": "",
+      "timestamp": 1774247457562,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": [
+        {
+          "id": "63492533-fbca-47a7-9154-bf098fbb4d6d",
+          "name": "Click on input username",
+          "action_id": "e1776340-1e2b-4d42-874a-5452dc2f23d0",
+          "timestamp": 1774247457562,
+          "target_name": "input_username",
+          "target_test_object_id": "b4de2a7b-5ca9-4102-bf70-5ae2040860b9",
+          "sub_steps": []
+        },
+        {
+          "id": "3f12c158-0143-4b4b-816f-7d656a147374",
+          "name": "Enter input value in input username",
+          "action_id": "6492ec86-597c-44d6-864a-91dca4e7fb49",
+          "timestamp": 1774247458351,
+          "target_name": "input_username",
+          "target_test_object_id": "b4de2a7b-5ca9-4102-bf70-5ae2040860b9",
+          "sub_steps": []
+        },
+        {
+          "id": "de1c0cdd-4b11-40e1-be0f-e5d4a032248b",
+          "name": "Click on input password",
+          "action_id": "73456c94-b7fd-49df-a6da-387e6b6386eb",
+          "timestamp": 1774247460170,
+          "target_name": "input_password",
+          "target_test_object_id": "79fc4f61-f36e-4217-815a-f111a16bb8cd",
+          "sub_steps": []
+        },
+        {
+          "id": "1f026f2e-05ba-478a-ac2b-8defaa997e5a",
+          "name": "Enter input value in input password",
+          "action_id": "87de5720-ae76-4e87-92d4-e6357d02faf9",
+          "timestamp": 1774247460584,
+          "target_name": "input_password",
+          "target_test_object_id": "79fc4f61-f36e-4217-815a-f111a16bb8cd",
+          "sub_steps": []
+        },
+        {
+          "id": "f857aa7a-8c85-4cc6-aff1-9c8057f41e4a",
+          "name": "Click on button signIn",
+          "action_id": "8c5bd95f-f263-4b0c-9cbc-e334e06b6e71",
+          "timestamp": 1774247462525,
+          "target_name": "button_signIn",
+          "target_test_object_id": "a77c2ff3-9d0c-41b4-9597-45764d8fa4ad",
+          "sub_steps": []
+        }
+      ]
+    },
+    {
+      "id": "7cfee581-993d-4d48-a24d-97c8fc458538",
+      "name": "Click on div userManagement",
+      "action_id": "b1bf203e-2592-4fe5-a801-c3fcaa81b0c0",
+      "timestamp": 1774247467071,
+      "target_name": "div_userManagement",
+      "target_test_object_id": "73f77fcb-b9b0-4b07-b1e7-83453db3a294",
+      "sub_steps": []
+    },
+    {
+      "id": "da9715bb-896f-4c75-9e95-df06984e639c",
+      "name": "Click on input newUser",
+      "action_id": "02f7df12-b83f-45e1-9ded-e7993f48c50f",
+      "timestamp": 1774247468598,
+      "target_name": "input_newUser",
+      "target_test_object_id": "1ca0d1cc-67b2-4cc0-ad29-f2494c6a16d4",
+      "sub_steps": []
+    },
+    {
+      "id": "755935ed-8d30-495f-8612-5b14c457943d",
+      "name": "Enter input value in input newUser",
+      "action_id": "6d3537d3-533e-4091-8da4-04a56255d275",
+      "timestamp": 1774247469258,
+      "target_name": "input_newUser",
+      "target_test_object_id": "1ca0d1cc-67b2-4cc0-ad29-f2494c6a16d4",
+      "sub_steps": []
+    },
+    {
+      "id": "c44f55c7-c87d-4c22-9216-d581ec928ce5",
+      "name": "Select option with input value from select newRole",
+      "action_id": "61585dcf-168e-4bee-a78d-b2373c455c78",
+      "timestamp": 1774247474691,
+      "target_name": "select_newRole",
+      "target_test_object_id": "f8606254-7693-450b-94b9-5b12601c3ed6",
+      "sub_steps": []
+    },
+    {
+      "id": "2823cd63-dc65-4c61-a825-b3e0729e1447",
+      "name": "Select option with input value from select newStatus",
+      "action_id": "5eea9362-5c57-41d6-9cad-fe55e0b7543c",
+      "timestamp": 1774247475962,
+      "target_name": "select_newStatus",
+      "target_test_object_id": "211d7be4-6cbd-4434-a3cb-932d17584cb6",
+      "sub_steps": []
+    },
+    {
+      "id": "54055dbb-cbca-4e76-81f2-c711dce75f8e",
+      "name": "Click on button addUser",
+      "action_id": "fa160f00-6e6a-488a-a770-fc38ffe79150",
+      "timestamp": 1774247476219,
+      "target_name": "button_addUser",
+      "target_test_object_id": "b82b08c9-e1a1-410d-b79d-934095283f95",
+      "sub_steps": []
+    },
+    {
+      "id": "cb8ecec4-a51e-4de3-9674-f7462214dc10",
+      "name": "Click on div userCreatedToast -> Navigate to page ''",
+      "action_id": "37dc0025-cc7c-4e26-aa81-6e66297efafb",
+      "timestamp": 1774247478677,
+      "target_name": "div_userCreatedToast",
+      "target_test_object_id": "2c460189-70c4-46c6-9a4f-7bccdf14d764",
+      "sub_steps": []
+    },
+    {
+      "id": "4355371a-5d6d-4db7-a331-fd5905a04262",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
