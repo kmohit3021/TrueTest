@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>navAdmin</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>text</name>
       <type>Main</type>
       <value>👥 User Management</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Delete button triggers a confirmation modal when clicked.</description>
+   <name>TC3-Confirmation Modal on User Deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef588275-9732-44c6-80f3-5c20edb874cb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input password - (Input data variable)</description>
+      <id>8dd0d8c8-99b5-4c65-8b7e-30e1782afb4e</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 3: Enter input value in input username - (Input data variable)</description>
+      <id>40c40cea-e904-4b67-bfc2-4bf7ce97b733</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>9dd0dd44-5ee5-45f2-b810-62149df3b65c</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session", "assignee": "mohit.kumar@katalon.com", "linkedTestCaseIds": [16773119]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

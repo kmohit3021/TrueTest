@@ -38,6 +38,6 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

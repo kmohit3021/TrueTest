@@ -27,7 +27,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>button &gt;&gt; internal:text=\"Sign In\"s</value>
+         <value>button &gt;&gt; internal:text="Sign In"s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
