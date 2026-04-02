@@ -1,12 +1,17 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-3,Confirmation Modal on User Deletion,Verify that the Delete button triggers a confirmation modal when clicked.,"Step 1: Navigate to /
+4,End-to-End User Management Lifecycle Verification,"Verify the entire user management lifecycle from login to user deletion works seamlessly, without any errors.","Step 1: Navigate to /
 Step 2: Click on input username
 Step 3: Enter input value in input username
 Step 4: Click on input password
 Step 5: Enter input value in input password
 Step 6: Click on button signIn
 Step 7: Click on div userManagement
-Step 8: Click on button deleteUser
-Step 9: Click on button confirmDelete
-Step 10: Take full page screenshot as checkpoint
+Step 8: Click on input newUser
+Step 9: Enter input value in input newUser
+Step 10: Select option with input value from select newRole
+Step 11: Click on b userName
+Step 12: Click on button delete
+Step 13: Click on button confirmDelete
+Step 14: Click on div userDeletedToast -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
 ",Trivial,NEW

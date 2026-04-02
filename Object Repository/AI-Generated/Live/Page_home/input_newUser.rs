@@ -11,16 +11,16 @@
          <value>//body/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/input[1]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[equals(@id,'newUser')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#newUser</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@id = 'newUser']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -38,6 +38,6 @@
       <name>id</name>
       <type>Main</type>
       <value>newUser</value>
-      <webElementGuid>aacda5c8-187c-4fdc-9b37-a5bfd7fb9c9a</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

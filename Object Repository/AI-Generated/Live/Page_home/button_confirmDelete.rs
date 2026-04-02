@@ -11,16 +11,16 @@
          <value>//body/div[3]/div[1]/div[1]/div[1]/button[2]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[equals(@id,'modalConfirmBtn') and equals(@class,'btn-primary') and equals(@text,'Yes, Delete')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[id="modalConfirmBtn"]</value>
+         <value>[id=&quot;modalConfirmBtn&quot;]</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@id = 'modalConfirmBtn' and @class = 'btn-primary' and (text() = 'Yes, Delete' or . = 'Yes, Delete')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>modalConfirmBtn</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Yes, Delete</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the entire user management lifecycle from login to user deletion works seamlessly, without any errors.</description>
+   <name>End-to-End User Management Lifecycle Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c50160c-ae6e-4396-8107-3c8473414b85</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;Manual Session&quot;, &quot;assignee&quot;: &quot;mohit.kumar@katalon.com&quot;, &quot;linkedTestCaseIds&quot;: [16773126]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>'mohit 002'</defaultValue>
+      <description>Step 9: Enter input value in input newUser - (Input data variable)</description>
+      <id>d4034a2a-2f33-463a-8930-1d46817226fe</id>
+      <masked>false</masked>
+      <name>input_newUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input password - (Input data variable)</description>
+      <id>e26d4dc5-bf5c-4414-99ef-bd28c7b8eec6</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description>Step 3: Enter input value in input username - (Input data variable)</description>
+      <id>200c9ac3-b4a5-4471-9151-77efdc9cd09a</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'[{"value":"Employee","label":"Employee","index":1}]'</defaultValue>
+      <description>Step 10: Select option with input value from select newRole - (Input data variable)</description>
+      <id>67b8c99e-bc3e-4174-86e1-3300d0103f81</id>
+      <masked>false</masked>
+      <name>select_newRole</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>4c1732ec-911f-414f-8482-70874c4a993b</id>
+      </flow>
+   </customField>
+</TestCaseEntity>

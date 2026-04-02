@@ -11,23 +11,23 @@
          <value>//body/div[1]/div[1]/input[2]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[equals(@id,'password') and equals(@type,'password')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#password</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@id = 'password' and @type = 'password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>input[placeholder="Password"]</value>
+         <value>input[placeholder=&quot;Password&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

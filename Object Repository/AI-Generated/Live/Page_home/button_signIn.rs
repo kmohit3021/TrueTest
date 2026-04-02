@@ -11,23 +11,23 @@
          <value>//body/div[1]/div[1]/button[1]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[equals(@class,'btn-primary') and equals(@text,'Sign In')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>.btn-primary</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@class = 'btn-primary' and (text() = 'Sign In' or . = 'Sign In')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>button &gt;&gt; internal:text="Sign In"s</value>
+         <value>button >> internal:text=&quot;Sign In&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

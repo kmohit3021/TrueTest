@@ -11,16 +11,16 @@
          <value>//body/div[2]/div[2]/div[1]/div[2]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[equals(@id,'navAdmin') and equals(@class,'nav-item') and equals(@text,'👥 User Management')]</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#navAdmin</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@id = 'navAdmin' and @class = 'nav-item' and (text() = '👥 User Management' or . = '👥 User Management')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>navAdmin</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>text</name>
       <type>Main</type>
       <value>👥 User Management</value>
-      <webElementGuid>ef52c673-61d0-4f25-8cf5-51825d053d32</webElementGuid>
+      <webElementGuid>38d886da-198c-4b15-8112-caf82145b367</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
