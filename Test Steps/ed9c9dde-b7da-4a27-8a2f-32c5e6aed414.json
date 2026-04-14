@@ -1,0 +1,73 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "d02a6e8d-478b-4fc1-9725-6a531eae9a67",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "ea66cb9a-0c88-4d35-aa6e-ae5166e56e9d",
+      "name": "Click on input username",
+      "action_id": "4afa2317-bfb8-4d59-a66a-d87231ecda28",
+      "timestamp": 1776162801753,
+      "target_name": "input_username",
+      "target_test_object_id": "e14d599b-78c8-462c-bf36-3f57605c817b",
+      "sub_steps": []
+    },
+    {
+      "id": "ebebd5e9-e4c1-4e0b-96af-11e6426b1afb",
+      "name": "Enter input value in input username",
+      "action_id": "1288e2c1-c194-4e1e-8d5e-9eef403a4cba",
+      "timestamp": 1776162802401,
+      "target_name": "input_username",
+      "target_test_object_id": "e14d599b-78c8-462c-bf36-3f57605c817b",
+      "sub_steps": []
+    },
+    {
+      "id": "3d548a98-012f-47fa-9340-dcf701f3544d",
+      "name": "Click on input password",
+      "action_id": "685edb77-e9d1-42cd-8ad9-4727b8c4729e",
+      "timestamp": 1776162803985,
+      "target_name": "input_password",
+      "target_test_object_id": "de74558f-bf87-49b1-be1a-bfe377cdbe38",
+      "sub_steps": []
+    },
+    {
+      "id": "2569c8fe-684f-48a1-9567-8eebac9c08d0",
+      "name": "Enter input value in input password",
+      "action_id": "5419a0ec-59f0-4bce-8360-99a7d4550978",
+      "timestamp": 1776162804376,
+      "target_name": "input_password",
+      "target_test_object_id": "de74558f-bf87-49b1-be1a-bfe377cdbe38",
+      "sub_steps": []
+    },
+    {
+      "id": "81e3281f-1306-4f32-ae84-575851ffc687",
+      "name": "Click on button signIn",
+      "action_id": "13398665-9cb5-465c-a3a8-641b3df2e324",
+      "timestamp": 1776162806323,
+      "target_name": "button_signIn",
+      "target_test_object_id": "c5d6af5f-43fb-41c4-8f36-b5f4c0fb4d6f",
+      "sub_steps": []
+    },
+    {
+      "id": "d6c12fdd-ea93-47ac-965e-758b9075b9a2",
+      "name": "Click on div userManagement -> Navigate to page ''",
+      "action_id": "043c45cc-e600-4508-9d3f-78a688272c2b",
+      "timestamp": 1776162812093,
+      "target_name": "div_userManagement",
+      "target_test_object_id": "892ef1b3-e17a-4287-bc76-e68d253255bd",
+      "sub_steps": []
+    },
+    {
+      "id": "109521e2-27e9-4661-b819-f700e4f02622",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Redirect to Dashboard After Successful Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02e44b74-e0ad-4940-9e15-1f4a7c5bc176</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;Manual Session&quot;, &quot;assignee&quot;: &quot;mohit.kumar@katalon.com&quot;, &quot;linkedTestCaseIds&quot;: [16773121]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>ed9c9dde-b7da-4a27-8a2f-32c5e6aed414</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input password - (Input data variable)</description>
+      <id>02b2b971-7379-43dd-971f-17842f3041e2</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description>Step 3: Enter input value in input username - (Input data variable)</description>
+      <id>7d1f7749-1407-4f73-b2c9-1d3a7b52f9b2</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>ed9c9dde-b7da-4a27-8a2f-32c5e6aed414</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
