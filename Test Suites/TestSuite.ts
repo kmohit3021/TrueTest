@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+    <name>TestSuite</name>
+    <description></description>
+    <tag></tag>
+    <isRerun>false</isRerun>
+    <mailRecipient></mailRecipient>
+    <numberOfRerun>3</numberOfRerun>
+    <pageLoadTimeout>30</pageLoadTimeout>
+    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+    <rerunImmediately>true</rerunImmediately>
+    <testSuiteGuid>7bae4e20-1bf7-431a-8774-8430a2f3d137</testSuiteGuid>
+    <testCaseLink>
+        <guid>c22ac63b-b327-402b-8c35-8078f602cde9</guid>
+        <isReuseDriver>false</isReuseDriver>
+        <isRun>true</isRun>
+        <testCaseId>Test Cases/AI-Generated/Live/Redirect to Dashboard After Successful Login</testCaseId>
+        <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>02b2b971-7379-43dd-971f-17842f3041e2</variableId>
+        </variableLink>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>7d1f7749-1407-4f73-b2c9-1d3a7b52f9b2</variableId>
+        </variableLink>
+    </testCaseLink>
+</TestSuiteEntity>
