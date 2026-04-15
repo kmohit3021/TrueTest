@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Removal from Employee Directory on Deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee0f4956-4eef-4aa3-87d6-3a4ce1251162</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;Manual Session&quot;, &quot;assignee&quot;: &quot;mohit.kumar@katalon.com&quot;, &quot;linkedTestCaseIds&quot;: [16773120]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>ad3256a4-614f-4bb1-b58e-f898406ba798</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input password - (Input data variable)</description>
+      <id>9d2710c6-8914-478d-903e-0601c060372a</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description>Step 3: Enter input value in input username - (Input data variable)</description>
+      <id>2a3219ab-a561-403b-a7a7-902325887989</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123Mohit'</defaultValue>
+      <description>Step 9: Enter input value in input username2 - (Input data variable)</description>
+      <id>d9c01eed-8eab-437d-b0b3-cd735eb0497d</id>
+      <masked>false</masked>
+      <name>input_username2</name>
+   </variable>
+   <variable>
+      <defaultValue>'[{"value":"Employee","label":"Employee","index":1}]'</defaultValue>
+      <description>Step 10: Select option with input value from select newRole - (Input data variable)</description>
+      <id>b9b0f62b-2eb0-40e8-b774-acfc4f3a33cb</id>
+      <masked>false</masked>
+      <name>select_newRole</name>
+   </variable>
+   <variable>
+      <defaultValue>'[{"value":"Disabled","label":"Disabled","index":1}]'</defaultValue>
+      <description>Step 11: Select option with input value from select newStatus - (Input data variable)</description>
+      <id>1df977d5-c8e3-4a1e-b2ac-952373b7985b</id>
+      <masked>false</masked>
+      <name>select_newStatus</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>ad3256a4-614f-4bb1-b58e-f898406ba798</id>
+      </flow>
+   </customField>
+</TestCaseEntity>

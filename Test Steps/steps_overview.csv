@@ -1,10 +1,19 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-5,Redirect to Dashboard After Successful Login,,"Step 1: Navigate to /
+6,User Removal from Employee Directory on Deletion,,"Step 1: Navigate to /
 Step 2: Click on input username
 Step 3: Enter input value in input username
 Step 4: Click on input password
 Step 5: Enter input value in input password
 Step 6: Click on button signIn
-Step 7: Click on div userManagement -> Navigate to page ''
-Step 8: Take full page screenshot as checkpoint
+Step 7: Click on div userManagement
+Step 8: Click on input username2
+Step 9: Enter input value in input username2
+Step 10: Select option with input value from select newRole
+Step 11: Select option with input value from select newStatus
+Step 12: Click on button addUser
+Step 13: Click on div toastSuccess
+Step 14: Click on button delete
+Step 15: Click on header confirmAction
+Step 16: Click on button confirmDelete
+Step 17: Take full page screenshot as checkpoint
 ",Trivial,NEW
